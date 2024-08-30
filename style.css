@@ -1,0 +1,122 @@
+body{
+    background-color: #dfdfdfb7;
+}
+.look{
+    background-image: url(projet-tdIwQlOoE-transformed.jpeg);
+    background-repeat: no-repeat;
+    /* width: 2000px; */
+    height: 600px;
+    margin-left: 250px;
+}
+.nav{
+    background-color:gray;
+    text-align: center;
+    background-color:gray;
+    padding: 15px;
+}
+.nav a{
+    color: aliceblue;
+    text-decoration: none !important;
+    
+}
+.project{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.check-in{
+    border: 1px solid gray;
+    background-color: rgba(240, 248, 255, 0.904);
+    width:475px ;
+    
+    margin-top: 17%;
+    margin-left: 450px;
+}
+.first{
+    display: flex;
+    padding-top: 20px;
+    
+}
+.second{
+    display: flex;
+    padding-top: 14px;
+    padding-bottom: 15px;
+}
+.first div{
+    padding-left: 30px;
+}
+.second div{
+    padding-left: 30px;
+}
+.location {
+    padding-left: 45px;
+}
+.btn button{
+    width: 200px;
+    height:50px ;
+    margin-bottom: 20px;
+    margin-left: 230px;
+
+}
+.btn a{
+    text-decoration: none !important;
+    
+}
+.project h1{
+     line-height: 0.5;
+    font-size: 35px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    
+    /* font-weight: 700; */
+}
+.flexing {
+    display: flex;
+}
+.discover{
+    text-align: center;
+}
+.discover h3{
+    padding-top: 50px;
+    border-top: 5px solid #848484;
+
+}
+.rent{
+    display: flex;
+    justify-content: center;
+    
+}
+.car{
+    border: 1px solid rgba(190, 190, 190, 0.652);
+    padding-bottom: 15px;
+}
+.bt button{
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #ffffff;
+    background-color: #848484;
+}
+.dis img{
+    border-top: 5px solid #5e5e5e;
+border-radius: 11px 11px 0px 0px;
+}
+.ctn {
+    background-color: gray;
+    margin: 30px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+}
+.ctn p{
+    text-align: center;
+    
+}
+.contact svg{
+    width: 50px;
+    height: 50px;
+    margin-left: 50%;
+}
+
+
+
+
